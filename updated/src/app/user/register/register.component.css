@@ -1,0 +1,8 @@
+#sign-up-form .login-form{
+  padding-top: 0;
+}
+
+#login-container #sign-up-form input {
+  outline: none;
+  border: 1px solid #ccc;
+}
